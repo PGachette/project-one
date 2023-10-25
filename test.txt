@@ -14,3 +14,4 @@ https://fred.stlouisfed.org/categories/32078
 # Population info
 https://data.ers.usda.gov/reports.aspx?ID=17827
 https://open.quiltdata.com/b/spatial-ucr
+https://pypi.org/project/census/
