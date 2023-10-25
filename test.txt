@@ -1,0 +1,13 @@
+# Title: What an Expensive Time to be Alive!
+# Description: Why is it so expensive to be alive today? We are going to use data to show something that is very close to us. Why is it so expensicve to live in Florida now? We are going to look at the cost of living, rent homeownership and other things related to being alive in 2023.
+# Location: Florida
+
+# Topics
+
+# - C.Money: Housing prices
+# - Austin: Rent & Income
+# - Pascale: Basket of Goods
+# - Will: Population
+
+# Housing prices in Miami-Dade County
+https://fred.stlouisfed.org/categories/32078
