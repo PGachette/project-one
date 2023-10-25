@@ -12,6 +12,9 @@
 # Housing prices in Miami-Dade County
 https://fred.stlouisfed.org/categories/32078
 
+#Rent prices in MIA-FLL-WPB
+https://fred.stlouisfed.org/series/CUURA320SEHA
+
 # Population info
 https://data.ers.usda.gov/reports.aspx?ID=17827
 https://open.quiltdata.com/b/spatial-ucr
